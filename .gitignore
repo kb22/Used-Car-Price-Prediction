@@ -102,3 +102,10 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+# python environment
+/bin
+/include
+/share
+/etc
+/lib
